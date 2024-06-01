@@ -1,0 +1,10 @@
+# Ignore build directories at any level
+build/
+**/build/
+
+# Ignore logs
+logs
+*.log
+
+# Ignore operating system files
+.DS_Store
